@@ -15,7 +15,7 @@ For the purposes of this Privacy Policy:
 - **Device** means any device that can access the Service such as a cellphone or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.For the purposes of GDPR, Personal Data means any information relating to You such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity. For the purposes of the CCPA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.
 - **Service** refers to the Application.
-- **Service** Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. For the purpose of the GDPR, Service Providers are considered Data Processors.
+- **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. For the purpose of the GDPR, Service Providers are considered Data Processors.
 - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
 
 # Collecting and Using Your Personal Data
@@ -33,7 +33,7 @@ Usage Data may include information such as Your Device's Internet Protocol addre
 When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
-###Information from Third-Party Social Media Services
+### Information from Third-Party Social Media Services
 The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
 - Google
 If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name and Your email address.
@@ -73,105 +73,30 @@ You may opt-out of certain Firebase features through your mobile device settings
 We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245
 For more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https://policies.google.com/technologies/partner-sites
 
-# Payments
-We may provide paid products. In that case, we may use third-party services for payment processing (e.g. payment processors).
+## Payments
+We provide paid products. In that case, we may use third-party services for payment processing (e.g. payment processors).
 We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 - **Apple Store In-App Payments**
 Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
 
+# Your Rights under the GDPR
+The Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights.
+
+You have the right under this Privacy Policy, and by law if You are within the EU, to:
+
+- **Request access to Your Personal Data.**  The right to access, update or delete the information We have on You. Whenever made possible, you can acces or request deletion of Your Personal Data directly within Your account settings section. If you are unable to perform these actions yourself, please contact Us to assist You. This also enables You to receive a copy of the Personal Data We hold about You.
+- **Request correction of the Personal Data that We hold about You.** You have the right to have any incomplete or inaccurate information We hold about You corrected.
+- **Object to processing of Your Personal Data.** This right exists where We are relying on a legitimate interest as the legal basis for Our processing and there is something about Your particular situation, which makes You want to object to our processing of Your Personal Data on this ground.
+- **Request erasure of Your Personal Data.** You have the right to ask Us to delete or remove Personal Data when there is no good reason for Us to continue processing it.
+- **Withdraw Your consent.** You have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.
+
+## Changes to this Privacy Policy
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+Email: domagojberonic1995@gmail.com
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Non-personal identification information
-
-We may collect non-personal identification information about You whenever You interact with our Service. 
-Non-personal identification information may include the type of device and technical information about Users means of connection to our app, such as the operating system and other similar information.
-
-## How we use collected information
-
-We may collect and use Your email for the following purpose:
-
-* **To process payments** We may use the information You provide about yourself when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-
-## How we protect your information
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your email store on our database.
-
-## Sharing your personal information
-
-We do not sell, trade, or rent Your personal identification information to others. 
-
-### Information we automatically collect when you use our Services:
-Some Personal Data is automatically collected when you use our Services, such as the following: 
-* Usage information
-* Location information (e.g. IP address, zip code) 
-* Log data (e.g. access times, hardware and software information)
-
-### Third Party Analytic Tools
-Our Services uses third party analytic tools, **Google Analytics**, that use cookies, web beacons, or other similar information gathering technologies to collect standard internet log information and usage information.
-The information generated is used to compile statistical reports on user activity.  We will never (and will not allow any third party to) use the statistical reports to track or to collect any personal information of visitors to, or users of, our Services. We will not associate any information gathered from the statistical reports with any personal information from any source. Google Analytics collects information such as how often You visit a website, what pages You visit when You do so, and what other websites You have visited prior to coming to a website. We use the information obtained from these applications only to improve our Services and our product and service offerings. The information generated about your use of our Services will be transferred and saved to the vendor’s server in the United States. Google’s ability to use and share information collected by Google Analytics about your visits to the Services is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can opt-out of Google Analytics tracking by visiting [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
-
-## Use of Your Personal Data
-
-The Company may use Personal Data for the following purposes:
-## How Do We Use Your Personal Data?
-We process Personal Data to operate, improve, understand and personalize our Services. For example, we use Personal Data to:
-- Create user profiles and store bought games ids
-- We also share Personal Data when necessary to complete a transaction initiated or authorized by you or provide You with a product you have requested.
-
-## How Long Do We Retain Your Personal Data?
-
-
-## What Security Measures Do We Use?
-We seek to protect Personal Data using appropriate technical measures for example, secured storage and encryption.  
-
-## What Rights Do You Have Regarding Your Personal Data?
-
-* **Access:**  You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. 
-* **Rectification:** If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data.
-* **Erasure:** You can request that we erase some or all of your Personal Data from our systems. You can do it manually under settings in our Service.
-
-## Transfers of Personal Data:
-The Services are hosted and operated in the United States (“U.S.”) through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S. pursuant to a data processing agreement incorporating standard data protection clauses promulgated by the EC, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
-
-## Changes to this privacy policy
-
-Bluff Game has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-## Contacting me
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:
-
- * domagojberonic1995@gmail.com
- * Ulica Roberta Frangesa Mihanovica 4, Zagreb, Croatia
-* * *
-
-_This document was last updated on **Nov 11, 2024**_

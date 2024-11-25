@@ -4,7 +4,9 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 
 # Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
 ##Definitions
+
 For the purposes of this Privacy Policy:
 - *Account* means a unique account created for You to access our Service.
 - *Application* means the software program provided by the Company downloaded by You on any electronic device, named Bluff Game.

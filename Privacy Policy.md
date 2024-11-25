@@ -8,15 +8,15 @@ The words of which the initial letter is capitalized have meanings defined under
 ## Definitions
 
 For the purposes of this Privacy Policy:
-- *Account* means a unique account created for You to access our Service.
-- *Application* means the software program provided by the Company downloaded by You on any electronic device, named Bluff Game.
-- *Company* (referred to as either "the Company," "We," "Us," or "Our" in this Agreement) refers to *Domagoj Beronić*, operating as an individual app developer, located at *Zagreb, Croatia, Roberta Frangeša Mihanovića 4*.
-- *Consumer* for the purpose of the CCPA (California Consumer Privacy Act), means a natural person who is a California resident. A resident, as defined in the law, includes (1) every individual who is in the USA for other than a temporary or transitory purpose, and (2) every individual who is domiciled in the USA who is outside the USA for a temporary or transitory purpose.
-- *Device* means any device that can access the Service such as a cellphone or a digital tablet.
-- *Personal Data* is any information that relates to an identified or identifiable individual.For the purposes of GDPR, Personal Data means any information relating to You such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity. For the purposes of the CCPA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.
-- *Service* refers to the Application.
-- *Service* Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. For the purpose of the GDPR, Service Providers are considered Data Processors.
-- *You* means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
+- **Account** means a unique account created for You to access our Service.
+- **Application** means the software program provided by the Company downloaded by You on any electronic device, named Bluff Game.
+- **Company** (referred to as either "the Company," "We," "Us," or "Our" in this Agreement) refers to *Domagoj Beronić*, operating as an individual app developer, located at *Zagreb, Croatia, Roberta Frangeša Mihanovića 4*.
+- **Consumer** for the purpose of the CCPA (California Consumer Privacy Act), means a natural person who is a California resident. A resident, as defined in the law, includes (1) every individual who is in the USA for other than a temporary or transitory purpose, and (2) every individual who is domiciled in the USA who is outside the USA for a temporary or transitory purpose.
+- **Device** means any device that can access the Service such as a cellphone or a digital tablet.
+- **Personal Data** is any information that relates to an identified or identifiable individual.For the purposes of GDPR, Personal Data means any information relating to You such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity. For the purposes of the CCPA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.
+- **Service** refers to the Application.
+- **Service** Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. For the purpose of the GDPR, Service Providers are considered Data Processors.
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
 
 ## Personal identification information
 
